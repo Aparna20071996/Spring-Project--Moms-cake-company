@@ -104,6 +104,7 @@
 			<id>my-repo1</id>
 			<url> http://artifactorypg.paytm.in/artifactory/libs-release </url>
 		</repository>
+
 	</repositories>
 	<build>
 		<plugins>
